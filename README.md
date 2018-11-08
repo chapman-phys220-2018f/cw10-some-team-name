@@ -1,6 +1,6 @@
 # PHYS220/MATH220/CPSC220 CW 10
 
-**Author(s):** **Jacob Anabi,**
+**Author(s):** **Jacob Anabi,Gage Kizzar**
 
 ## Specification
 
